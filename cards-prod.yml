@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank cards related QA APIs "
+  message: "Welcome to EazyBank cards related prod APIs "
   contactDetails:
     name: "Bob - Product Owner"
     email: "bob@eazybank.com"
