@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Bob - Product Owner"
-    email: "bob@eazybank.com"
+    email: "{cipher}8cf2ada884e4307257465f530a240cb44911ba804bec7462309dbbacb8625f90d3bf9b58a2ee422d8be029191c3e6227"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
