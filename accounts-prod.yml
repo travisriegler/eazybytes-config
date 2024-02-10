@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related production (testing spring bus) APIs "
   contactDetails:
     name: "Bob - Product Owner"
     email: "{cipher}8cf2ada884e4307257465f530a240cb44911ba804bec7462309dbbacb8625f90d3bf9b58a2ee422d8be029191c3e6227"
